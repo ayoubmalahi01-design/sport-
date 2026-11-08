@@ -1,0 +1,4 @@
+name = "sport-performance"
+pages_build_output_dir = "dist"
+# Build command: npm run build
+# Environment variables must be set in Cloudflare dashboard (never commit .env)

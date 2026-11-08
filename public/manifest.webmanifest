@@ -1,0 +1,16 @@
+{
+  "name": "Sport Performance",
+  "short_name": "SportPerf",
+  "description": "Local-first sport performance tracking with offline support",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#123d32",
+  "theme_color": "#123d32",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
